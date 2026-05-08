@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ExpenseTracker.Api/ExpenseTracker.Api.csproj">
+    <BuildDependency Project="ExpenseTracker.Application/ExpenseTracker.Application.csproj" />
+  </Project>
+  <Project Path="ExpenseTracker.Application/ExpenseTracker.Application.csproj" />
+</Solution>
